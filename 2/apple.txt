@@ -1,16 +1,3 @@
-<<<<<<< HEAD:2/apple.txt
-baljit
-baljit
-baljit
-baljit
-baljit
-baljit
-baljit
-baljit
-baljit
-baljit
-=======
-baljit
 baljit
 baljit
 baljit
@@ -32,5 +19,3 @@ mohit
 mohit
 mohit
 mohit
-mohitmohit
->>>>>>> master:2/baljit.txt
