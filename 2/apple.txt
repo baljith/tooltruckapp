@@ -1,3 +1,4 @@
+<<<<<<< HEAD:2/apple.txt
 baljit
 baljit
 baljit
@@ -8,3 +9,28 @@ baljit
 baljit
 baljit
 baljit
+=======
+baljit
+baljit
+baljit
+baljit
+baljit
+baljit
+
+
+
+singh
+singh
+singh
+singh
+singh
+singh
+
+mohit
+mohit
+mohit
+mohit
+mohit
+mohit
+mohitmohit
+>>>>>>> master:2/baljit.txt
